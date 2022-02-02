@@ -1,4 +1,4 @@
-module github.com/go-git/go-git-fixtures/v4
+module github.com/Hunter-Thompson/go-git-fixtures/v4
 
 go 1.14
 
