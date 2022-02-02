@@ -73,7 +73,7 @@ var fixtures = Fixtures{{
 	WorktreeHash: "d2e42ddd68eacbb6034e7724e0dd4117ff1f01ee",
 }, {
 	Tags:         []string{"worktree", "submodule"},
-	URL:          "git@github.com:git-fixtures/submodule.git",
+	URL:          "git@github.com:valorl/repository-with-relative-submodule.git",
 	WorktreeHash: "8b4d55c85677b6b94bef2e46832ed2174ed6ecaf",
 }, {
 	Tags:         []string{"packfile", ".git", "unpacked", "multi-packfile"},
